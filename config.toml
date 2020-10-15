@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://dynamicdesignmechanicalengineers.netlify.app"
+# baseURL needs to be same as one in Netlify
 title = "Dynamic Design Mechanicsl Engineers"
 theme = "airspace-hugo"
 # post pagination
