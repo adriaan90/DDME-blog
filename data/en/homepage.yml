@@ -1,0 +1,113 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/DME-slider-bg.png"
+  title : "An Innovative <br/> & Efficient Engineering Company"
+  content : "We love anything engineering and the work we do. We work closely with our clients to deliver  the best possible solutions for their needs"
+  button:
+    enable : true
+    label : "Discover Our Projects"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "About Us"
+  description : 
+  content : "Dynamic Design Mechanical Engineers started in 2020 with a clear goal
+            in mind: to create innovative products and solutions for our clients. 
+            
+            
+            We build long term relationships with our clients by providing them with innovative and timely engineering solutions. 
+            We have a friendly, collaborative approach and work closely with our customers to understand their needs and build trust.
+            This allows a free flow of ideas and the creation of valuable IP to exploit.
+            
+            
+            Utilising a unique blend of industry experience and mechanical engineering excellence, we deliver work through a proven, 
+            quality-driven, highly visual workflow process."
+  image : "images/wrapper-img.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/featue-bg.jpg"
+  title : "WE BELIEVE IN GREAT IDEAS"
+  content : "
+  Have a look at our past projects and what our clients had to say in the accompanying testimonials for each project.
+  
+  
+  
+  If you require anything similar to what we have already done, or your requirements are completely different, do not hesitate to get in touch!
+  
+  
+  "
+  button:
+    enable : true
+    label : "View Works"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design effective engineering solutions."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself the work and results we’ve achieved for other clients."
+  button:
+    enable : true
+    label : "Get in contact"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Fun Facts About Us"
+  description : "'The noblest pleasure is the joy of understanding.' - Leonardo da Vinci"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cups Of Coffee"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lines of code"
+      count : "35000"
+      
+    # funfacts item loop
+    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "1"
+      
+    # funfacts item loop
+    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "3"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Hamed Khosravi"
+      image : "images/clients/KMK.png"
+      designation : "Project Director -KMK Consulting Engineers"
+      content : "Adriaan has provided an invaluable service supplying us with a high-fidelity software tool for the use of train simulation program in materials handling; enabling us to continue to innovate and grow our business."
+                
+    # testimonial item loop
+    #- name : "Randi Renin"
+    #  image : "images/clients/avater-1.jpg"
+    #  designation : "CEO-Themefisher"
+    #  content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+    #            ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    #- name : "Rose Rio"
+    #  image : "images/clients/avater-3.jpg"
+    #  designation : "CEO-Themefisher"
+    #  content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+    #            ideas we feel that our site has unique elements that make us stand out from the crowd."

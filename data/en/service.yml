@@ -1,0 +1,86 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "An Innovative Mechanical Engineering Company"
+  content : "Dynamic Design Mechanical Engineers was formed in 2020 to provide a co-ordinated and value for money service to Clients. The Company is active in a wide area of Mechanical Services working in an active environment with other like minded professionals. Our approach has a clear objective, to produce a tailored Mechanical solution to any project. We focus particularly on Mechanical engineering designs which is within the specified budget and agreed Client Specification. Using the latest methods and software tools for creating Client specific products we are able to produce efficient systems which gives our Clients a personal *down to earth* service. Our experience in the field puts us in a position where we can give impartial advice and fit the systems designed to provide the best possible solution for each individual Project. We have extensive knowledge of the various technologies available i.e. combustion analysis, vibrations, experimental set-up etc."
+  image : "images/company/company-group-pic.png" #
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Simulation and modelling"
+      icon : "ion-android-checkbox-outline"
+      color : "primary"
+      content : "Simulation and modelling of concept designs to detailed designs ready for implementation to a commercial level."
+      
+    # featured service item loop
+    - name : "Experimental design"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary-dark"
+      content : "Designing robust experimental methods using accepted methodologies based on statistical methods and proven concepts."
+      
+    # featured service item loop
+    - name : "Academic writing and blogging"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "Professional writing ranging from detailed explanatory blog posts to comprehensive user manuals and experimental reports."
+
+      
+############################# Service ###############################
+service:
+  enable : true
+  title : "Our Services"
+  description : "We provide services that cover a wide range of engineering disciplines."
+  service_item:
+    # service item loop
+    - icon : ion-code #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Matlab
+      content: "Experience in developing models in Matlab which include creating standalone GUIs for easy usage."
+
+    # service item loop
+    - icon : ion-social-python #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Python
+      content: "Data analysis of engineering systems (thermodynamic & fluid-dynamics) and big data."
+
+    # service item loop
+    #- icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #  name: LaTeX
+    #  content: "Professional document creation."
+
+    # service item loop
+    - icon : ion-cube #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: SolidWorks
+      content: "CAD creation of parts and assemblies for concept and detail designs."
+
+    # service item loop
+    - icon : ion-flame #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Thermodynamics
+      content: "Simulation and optimisation of heat pumps, shell & tube heat exchangers and general Rankine cycle systems."
+
+    # service item loop
+    - icon : ion-radio-waves #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Vibrational dynamics
+      content: "Simulation and optimisation of dynamic systems."
+
+    # service item loop
+    #- icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #  name: Fluid dynamics
+    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-compose #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Documentation
+      content: "Professional documentation of user manuals, technical reports or general blog posts."
+     
+     # service item loop
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Engineering training
+      content: "Professionally catered training courses covering all engineering topics and engineering software."
+      
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
