@@ -1,11 +1,11 @@
 ################################# Default configuration ###################
-baseURL = "https://dynamicdesignmechanicalengineers.netlify.app"
+baseURL = "https://dynamicdesignmechanicalengineers.com"
 # baseURL needs to be same as one in Netlify
 title = "Dynamic Design Mechanicsl Engineers"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
-# post excerpt
+# post excerpts
 summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
