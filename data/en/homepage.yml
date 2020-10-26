@@ -93,10 +93,10 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Hamed Khosravi"
-      image : "images/clients/KMK.png"
-      designation : "Project Director -KMK Consulting Engineers"
-      content : "Adriaan has provided an invaluable service supplying us with a high-fidelity software tool for the use of train simulation program in materials handling; enabling us to continue to innovate and grow our business."
+    #- name : "Hamed Khosravi"
+    #  image : "images/clients/KMK.png"
+    #  designation : "Project Director -KMK Consulting Engineers"
+    #  content : "Adriaan has provided an invaluable service supplying us with a high-fidelity software tool for the use of train simulation program in materials handling; enabling us to continue to innovate and grow our business."
                 
     # testimonial item loop
     #- name : "Randi Renin"
