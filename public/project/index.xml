@@ -6,18 +6,14 @@
     <description>Recent content in Our Past Projects on Dynamic Design Mechanicsl Engineers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Copyright &amp;copy; 2020 [Dynamics Design Mechanical Engineers]() All Rights Reserved</copyright>
-    
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 [Dynamics Design Mechanical Engineers]() All Rights Reserved</copyright><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Train Dynamic Simulation Program</title>
-      <link>/project/engineering-kinematics-kmk-engineers/</link>
+      <title>Understanding Thermodynamics online course</title>
+      <link>/project/understanding-thermodynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/engineering-kinematics-kmk-engineers/</guid>
-      <description>Material handling optimisation using Engineering kinematics KMK Consulting Engineers have an in-house software to simulate train dynamic behaviour. This include forces experienced by the positioner arm as well as movement profiles of individual wagons.</description>
+      <guid>/project/understanding-thermodynamics/</guid>
+      <description>The coronavirus pandemic necessitated learning material to be moved online. The limited preparation time prompted academic staff to opt for solutions such as narrated PowerPoints or a blended approach making use of existing online videos.</description>
     </item>
     
   </channel>
