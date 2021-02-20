@@ -2,12 +2,12 @@
 banner:
   enable : true
   bg_image : "images/DME-slider-bg.png"
-  title : "An Innovative <br/> & Efficient Engineering Company"
-  content : "We love anything engineering and the work we do. We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "An innovative <br/> & performance driven engineering company"
+  content : ""
   button:
     enable : true
-    label : "Discover Our Projects"
-    link : "project"
+    label : "What we can offer"
+    link : "service"
 
 ############################# About #################################
 about:
@@ -30,7 +30,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   bg_image : "images/featue-bg.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
@@ -43,7 +43,7 @@ portfolio:
   
   "
   button:
-    enable : true
+    enable : false
     label : "View Works"
     link : "project"
 
@@ -74,21 +74,21 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
-      count : "99"
+      count : "Too much"
       
     # funfacts item loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Lines of code"
-      count : "35000"
+      count : "100,000+"
       
     # funfacts item loop
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "1"
+      name : "Projects completed"
+      count : "3"
       
     # funfacts item loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
+    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Languages spoken"
       count : "3"
 
   testimonial_slider:
@@ -98,16 +98,14 @@ funfacts:
     #  designation : "Project Director -KMK Consulting Engineers"
     #  content : "Adriaan has provided an invaluable service supplying us with a high-fidelity software tool for the use of train simulation program in materials handling; enabling us to continue to innovate and grow our business."
                 
-    # testimonial item loop
-    #- name : "Randi Renin"
-    #  image : "images/clients/avater-1.jpg"
-    #  designation : "CEO-Themefisher"
-    #  content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-    #            ideas we feel that our site has unique elements that make us stand out from the crowd."
+     testimonial item loop
+    - name : "Eddie Roper"
+      image : "images/clients/eddie-roper.jpg"
+      designation : "Student Engineer"
+      content : "Extremely informative and useful video tutorial content. I would have been a month further behind in my project were it not for your help."
                 
-    # testimonial item loop
-    #- name : "Rose Rio"
-    #  image : "images/clients/avater-3.jpg"
-    #  designation : "CEO-Themefisher"
-    #  content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-    #            ideas we feel that our site has unique elements that make us stand out from the crowd."
+     testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "Youtube subscriber"
+      content : "Thank you so much for uploading these videos. It is hard to find Ricardo tutorial videos online."
