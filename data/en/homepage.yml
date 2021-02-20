@@ -67,14 +67,14 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'The noblest pleasure is the joy of understanding.' - Leonardo da Vinci"
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
-      count : "Too much"
+      count : ""
       
     # funfacts item loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
