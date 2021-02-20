@@ -8,7 +8,7 @@ theme = "airspace-hugo"
 title = "Dynamic Design Mechanicsl Engineers"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Dynamics Design Mechanical Engineers]() All Rights Reserved"
+copyright = "Copyright &copy; 2021 [Dynamics Design Mechanical Engineers]() All Rights Reserved"
 home = "Home"
 languageCode = "en-uk"
 languageName = "En"
@@ -36,7 +36,7 @@ weight = 1
 [params]
 author = "Adriaan van Niekerk"
 contact_form_action = "https://formspree.io/xwkrvvrz"
-description = "A innovative and efficient engineering company"
+description = "A innovative and performance driven engineering company"
 email = "asvn90@gmail.com"
 google_analitycs_id = "UA-161404758-2"
 location = "Bristol, United Kingdom"
