@@ -38,10 +38,11 @@ author = "Adriaan van Niekerk"
 contact_form_action = "https://formspree.io/xwkrvvrz"
 description = "A innovative and performance driven engineering company"
 email = "contact@dynamicdesignmechanicalengineers.com"
+mobile = "testing"
 google_analitycs_id = "UA-161404758-2"
 location = "Bristol, United Kingdom"
 logo = "images/logo.png"
-mobile = "0124857985320"
+
 multi_author = false
 [params.gmap]
 enable = false
